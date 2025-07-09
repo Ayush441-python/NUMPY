@@ -1,0 +1,1 @@
+## Notes of numpy fron the book Python Data Science Handbook
